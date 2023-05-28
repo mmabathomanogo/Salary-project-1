@@ -1,0 +1,10 @@
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\bin\Debug\Salary Program Ver 1.exe.config
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\bin\Debug\Salary Program Ver 1.exe
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\bin\Debug\Salary Program Ver 1.pdb
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\bin\Debug\Salary Program Ver 1.xml
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\obj\Debug\Salary_Program_Ver_1.Form1.resources
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\obj\Debug\Salary_Program_Ver_1.Resources.resources
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\obj\Debug\Salary Program Ver 1.vbproj.GenerateResource.Cache
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\obj\Debug\Salary Program Ver 1.exe
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\obj\Debug\Salary Program Ver 1.xml
+C:\Users\kk\Documents\Visual Studio 2013\Projects\visual studio\vb\vb\Mabatho\IF Statement\Salary Program Ver 1\Salary Program Ver 1\obj\Debug\Salary Program Ver 1.pdb
